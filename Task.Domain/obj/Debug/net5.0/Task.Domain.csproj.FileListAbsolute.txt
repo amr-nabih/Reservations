@@ -1,0 +1,16 @@
+D:\MyWork\Task\Task\Task.Domain\bin\Debug\net5.0\Task.Domain.deps.json
+D:\MyWork\Task\Task\Task.Domain\bin\Debug\net5.0\Task.Domain.dll
+D:\MyWork\Task\Task\Task.Domain\bin\Debug\net5.0\ref\Task.Domain.dll
+D:\MyWork\Task\Task\Task.Domain\bin\Debug\net5.0\Task.Domain.pdb
+D:\MyWork\Task\Task\Task.Domain\obj\Debug\net5.0\Task.Domain.csproj.AssemblyReference.cache
+D:\MyWork\Task\Task\Task.Domain\obj\Debug\net5.0\Task.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\MyWork\Task\Task\Task.Domain\obj\Debug\net5.0\Task.Domain.AssemblyInfoInputs.cache
+D:\MyWork\Task\Task\Task.Domain\obj\Debug\net5.0\Task.Domain.AssemblyInfo.cs
+D:\MyWork\Task\Task\Task.Domain\obj\Debug\net5.0\Task.Domain.csproj.CoreCompileInputs.cache
+D:\MyWork\Task\Task\Task.Domain\obj\Debug\net5.0\staticwebassets\Task.Domain.StaticWebAssets.Manifest.cache
+D:\MyWork\Task\Task\Task.Domain\obj\Debug\net5.0\staticwebassets\Task.Domain.StaticWebAssets.xml
+D:\MyWork\Task\Task\Task.Domain\obj\Debug\net5.0\scopedcss\bundle\Task.Domain.styles.css
+D:\MyWork\Task\Task\Task.Domain\obj\Debug\net5.0\Task.Domain.RazorTargetAssemblyInfo.cache
+D:\MyWork\Task\Task\Task.Domain\obj\Debug\net5.0\Task.Domain.dll
+D:\MyWork\Task\Task\Task.Domain\obj\Debug\net5.0\ref\Task.Domain.dll
+D:\MyWork\Task\Task\Task.Domain\obj\Debug\net5.0\Task.Domain.pdb
