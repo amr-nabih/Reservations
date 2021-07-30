@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "1slezW06yhkk1Hx1FuXymIJvJp+Py9Id47Tr8smgq8F2Qmng0weJ4BC2+STfGa47B12Ydd+hkXcEqi8jx1tqxw==",
+  "dgSpecHash": "nILvEB26ap8Vn+aG/uDRZGsV6G1/kojT2JN/X3szaE8VqjiPABS/yWQ50ZcG9JBuK+xukJFcr7PlRzrYDO+tCg==",
   "success": true,
-  "projectFilePath": "D:\\MyWork\\Task\\Task\\Task.Domain\\Task.Domain.csproj",
+  "projectFilePath": "D:\\MyWork\\Task\\Task.Domain\\Task.Domain.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\MAKKA\\.nuget\\packages\\automapper\\10.1.1\\automapper.10.1.1.nupkg.sha512",
     "C:\\Users\\MAKKA\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",

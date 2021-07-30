@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\MyWork\\Task\\Task\\Task.API\\Task.API.csproj": {}
+    "D:\\MyWork\\Task\\Task.API\\Task.API.csproj": {}
   },
   "projects": {
-    "D:\\MyWork\\Task\\Task\\Task.API\\Task.API.csproj": {
+    "D:\\MyWork\\Task\\Task.API\\Task.API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\MyWork\\Task\\Task\\Task.API\\Task.API.csproj",
+        "projectUniqueName": "D:\\MyWork\\Task\\Task.API\\Task.API.csproj",
         "projectName": "Task.API",
-        "projectPath": "D:\\MyWork\\Task\\Task\\Task.API\\Task.API.csproj",
+        "projectPath": "D:\\MyWork\\Task\\Task.API\\Task.API.csproj",
         "packagesPath": "C:\\Users\\MAKKA\\.nuget\\packages\\",
-        "outputPath": "D:\\MyWork\\Task\\Task\\Task.API\\obj\\",
+        "outputPath": "D:\\MyWork\\Task\\Task.API\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\MAKKA\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -28,11 +28,11 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "D:\\MyWork\\Task\\Task\\Task.Domain\\Task.Domain.csproj": {
-                "projectPath": "D:\\MyWork\\Task\\Task\\Task.Domain\\Task.Domain.csproj"
+              "D:\\MyWork\\Task\\Task.Domain\\Task.Domain.csproj": {
+                "projectPath": "D:\\MyWork\\Task\\Task.Domain\\Task.Domain.csproj"
               },
-              "D:\\MyWork\\Task\\Task\\Task.Infrastructure\\Task.Infrastructure.csproj": {
-                "projectPath": "D:\\MyWork\\Task\\Task\\Task.Infrastructure\\Task.Infrastructure.csproj"
+              "D:\\MyWork\\Task\\Task.Infrastructure\\Task.Infrastructure.csproj": {
+                "projectPath": "D:\\MyWork\\Task\\Task.Infrastructure\\Task.Infrastructure.csproj"
               }
             }
           }
@@ -104,14 +104,14 @@
         }
       }
     },
-    "D:\\MyWork\\Task\\Task\\Task.Domain\\Task.Domain.csproj": {
+    "D:\\MyWork\\Task\\Task.Domain\\Task.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\MyWork\\Task\\Task\\Task.Domain\\Task.Domain.csproj",
+        "projectUniqueName": "D:\\MyWork\\Task\\Task.Domain\\Task.Domain.csproj",
         "projectName": "Task.Domain",
-        "projectPath": "D:\\MyWork\\Task\\Task\\Task.Domain\\Task.Domain.csproj",
+        "projectPath": "D:\\MyWork\\Task\\Task.Domain\\Task.Domain.csproj",
         "packagesPath": "C:\\Users\\MAKKA\\.nuget\\packages\\",
-        "outputPath": "D:\\MyWork\\Task\\Task\\Task.Domain\\obj\\",
+        "outputPath": "D:\\MyWork\\Task\\Task.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\MAKKA\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -175,14 +175,14 @@
         }
       }
     },
-    "D:\\MyWork\\Task\\Task\\Task.Infrastructure\\Task.Infrastructure.csproj": {
+    "D:\\MyWork\\Task\\Task.Infrastructure\\Task.Infrastructure.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\MyWork\\Task\\Task\\Task.Infrastructure\\Task.Infrastructure.csproj",
+        "projectUniqueName": "D:\\MyWork\\Task\\Task.Infrastructure\\Task.Infrastructure.csproj",
         "projectName": "Task.Infrastructure",
-        "projectPath": "D:\\MyWork\\Task\\Task\\Task.Infrastructure\\Task.Infrastructure.csproj",
+        "projectPath": "D:\\MyWork\\Task\\Task.Infrastructure\\Task.Infrastructure.csproj",
         "packagesPath": "C:\\Users\\MAKKA\\.nuget\\packages\\",
-        "outputPath": "D:\\MyWork\\Task\\Task\\Task.Infrastructure\\obj\\",
+        "outputPath": "D:\\MyWork\\Task\\Task.Infrastructure\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\MAKKA\\AppData\\Roaming\\NuGet\\NuGet.Config",

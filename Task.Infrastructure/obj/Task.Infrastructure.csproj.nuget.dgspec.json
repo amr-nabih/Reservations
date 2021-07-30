@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\MyWork\\Task\\Task\\Task.Infrastructure\\Task.Infrastructure.csproj": {}
+    "D:\\MyWork\\Task\\Task.Infrastructure\\Task.Infrastructure.csproj": {}
   },
   "projects": {
-    "D:\\MyWork\\Task\\Task\\Task.Infrastructure\\Task.Infrastructure.csproj": {
+    "D:\\MyWork\\Task\\Task.Infrastructure\\Task.Infrastructure.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\MyWork\\Task\\Task\\Task.Infrastructure\\Task.Infrastructure.csproj",
+        "projectUniqueName": "D:\\MyWork\\Task\\Task.Infrastructure\\Task.Infrastructure.csproj",
         "projectName": "Task.Infrastructure",
-        "projectPath": "D:\\MyWork\\Task\\Task\\Task.Infrastructure\\Task.Infrastructure.csproj",
+        "projectPath": "D:\\MyWork\\Task\\Task.Infrastructure\\Task.Infrastructure.csproj",
         "packagesPath": "C:\\Users\\MAKKA\\.nuget\\packages\\",
-        "outputPath": "D:\\MyWork\\Task\\Task\\Task.Infrastructure\\obj\\",
+        "outputPath": "D:\\MyWork\\Task\\Task.Infrastructure\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\MAKKA\\AppData\\Roaming\\NuGet\\NuGet.Config",

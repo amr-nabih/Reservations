@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "C2aUEBRXSphii64eqT5IngA3qYClZdU7d8axU6BuPtXJUFqUePqNYnXlzbiHsWguKvUUXv534yFP7dym+4qEJQ==",
+  "dgSpecHash": "KZ9ioqre37+ZsCRhDRbAxMZ2hMFH3Z8pihT0cZEz6TdkrmiwwT2X7zhsjmzSvigGhkIxEt5ZTb0rI3F/TdCijA==",
   "success": true,
-  "projectFilePath": "D:\\MyWork\\Task\\Task\\Task.API\\Task.API.csproj",
+  "projectFilePath": "D:\\MyWork\\Task\\Task.API\\Task.API.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\MAKKA\\.nuget\\packages\\automapper\\10.1.1\\automapper.10.1.1.nupkg.sha512",
     "C:\\Users\\MAKKA\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\8.1.1\\automapper.extensions.microsoft.dependencyinjection.8.1.1.nupkg.sha512",

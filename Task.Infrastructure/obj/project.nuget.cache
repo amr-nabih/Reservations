@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "eoHoUobdvTOj7MVSwxZRo6vghvMU29Rq6iN2yZ50yWGa2njVieo0SwzQITyrb7ni7o0CNIcWvS45AJluwkaIxA==",
+  "dgSpecHash": "CJT46v/xj8gZoU7tt0tIBmtAft4PZaSjCXEDnPvcs91Y0LM4Uz++H12VlWkdQVYOxmOqD/fZ8UGUf9aNv02ghw==",
   "success": true,
-  "projectFilePath": "D:\\MyWork\\Task\\Task\\Task.Infrastructure\\Task.Infrastructure.csproj",
+  "projectFilePath": "D:\\MyWork\\Task\\Task.Infrastructure\\Task.Infrastructure.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\MAKKA\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\MAKKA\\.nuget\\packages\\microsoft.aspnetcore.cryptography.internal\\5.0.3\\microsoft.aspnetcore.cryptography.internal.5.0.3.nupkg.sha512",
